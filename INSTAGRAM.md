@@ -71,3 +71,4 @@
 | veterinaria_abroad                       | Veterinária                              | https://www.instagram.com/veterinaria_abroad/                     |          |
 | wtfbiomed                                | Biomedicina                              | https://www.instagram.com/wtfbiomed/                              |          |
 | _enfimbiomedicina                        | Biomedicina                              | https://www.instagram.com/_enfimbiomedicina/                      |          |
+|woman.in.science                       | Biotecnologia                             | https://www.instagram.com/woman.in.science/                      |          |
